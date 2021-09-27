@@ -1,9 +1,4 @@
 
-### Learn Build Teach 🚀
-
-> As I get better, you get better! As I learn, you learn!
-
----
 
 ### Index 📋
 You're sections headers will be used to reference location of destination.
